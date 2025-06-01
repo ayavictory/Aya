@@ -10,13 +10,13 @@ namespace MvcTodoApp.Controllers
         // قائمة محاكاة لقاعدة البيانات (في الذاكرة)
         private static List<TaskItem> tasks = new List<TaskItem>
         {
-            new TaskItem { Id = 1, Title = "تعلم MVC Design Pattern", IsComplete = false },
-            new TaskItem { Id = 2, Title = "تعلم N-tier Architecture", IsComplete = false },
-            new TaskItem { Id = 3, Title = "تعلم استخدام git", IsComplete = false },
+            new TaskItem { Id = 1, Title = "تدرب على MVC Design Pattern", IsComplete = false },
+            new TaskItem { Id = 2, Title = "تدرب على N-tier Architecture", IsComplete = false },
+            new TaskItem { Id = 3, Title = "تدرب على استخدام git", IsComplete = false },
         };
 
         /// <summary>
-        /// يعرض القائمة الرئيسية للمهام
+        /// يعرض القائمة الرئيسية للمهام.
         /// </summary>
         public IActionResult Index()
         {
@@ -24,7 +24,7 @@ namespace MvcTodoApp.Controllers
         }
 
         /// <summary>
-        /// إضافة مهمة جديدة
+        /// إضافة مهمة جديدة.
         /// </summary>
         [HttpPost]
         public IActionResult AddTask(string title)
@@ -39,30 +39,14 @@ namespace MvcTodoApp.Controllers
         }
 
         /// <summary>
-        /// تعيين مهمة كمكتملة
+        /// تعيين مهمة كمكتملة.
         /// </summary>
         [HttpPost]
         public IActionResult CompleteTask(int id)
         {
             var task = tasks.FirstOrDefault(t => t.Id == id);
             if (task != null)
-            {
                 task.IsComplete = true;
-            }
-            return RedirectToAction("Index");
-        }
-
-        /// <summary>
-        /// تعديل عنوان المهمة
-        /// </summary>
-        [HttpPost]
-        public IActionResult EditTask(int id, string newTitle)
-        {
-            var task = tasks.FirstOrDefault(t => t.Id == id);
-            if (task != null && !string.IsNullOrEmpty(newTitle))
-            {
-                task.Title = newTitle;
-            }
             return RedirectToAction("Index");
         }
     }

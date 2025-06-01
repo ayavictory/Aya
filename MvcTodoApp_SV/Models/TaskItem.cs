@@ -1,7 +1,7 @@
 namespace MvcTodoApp.Models
 {
     /// <summary>
-    /// يمثل نموذج مهمة في التطبيق
+    /// يمثل نموذج مهمة في التطبيق.
     /// </summary>
     public class TaskItem
     {
