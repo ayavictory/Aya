@@ -8,24 +8,26 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\XPRISTO\\.nuget\\packages\\": {}
+    "C:\\Users\\Nawzat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\XPRISTO\\OneDrive\\Desktop\\ii\\MvcTodoApp_SV\\MvcTodoApp.csproj",
+      "projectUniqueName": "D:\\Nawzat\\Desktop\\SE2-MVC&N-tier\\MvcTodoApp_SV\\MvcTodoApp.csproj",
       "projectName": "MvcTodoApp",
-      "projectPath": "C:\\Users\\XPRISTO\\OneDrive\\Desktop\\ii\\MvcTodoApp_SV\\MvcTodoApp.csproj",
-      "packagesPath": "C:\\Users\\XPRISTO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\XPRISTO\\OneDrive\\Desktop\\ii\\MvcTodoApp_SV\\obj\\",
+      "projectPath": "D:\\Nawzat\\Desktop\\SE2-MVC&N-tier\\MvcTodoApp_SV\\MvcTodoApp.csproj",
+      "packagesPath": "C:\\Users\\Nawzat\\.nuget\\packages\\",
+      "outputPath": "D:\\Nawzat\\Desktop\\SE2-MVC&N-tier\\MvcTodoApp_SV\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\XPRISTO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Nawzat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
