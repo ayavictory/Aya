@@ -1,0 +1,50 @@
+﻿@model List<NTierTodoApp.Models.TaskItem>
+@{
+    ViewData["Title"] = "قائمة المهام";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">@ViewData["Title"]</h1>
+    
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <ul class="list-group">
+                @foreach (var task in Model)
+                {
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <div>
+                            @if(task.IsComplete)
+                            {
+                                <del>@task.Title</del>
+                            }
+                            else
+                            {
+                                @task.Title
+                            }
+                        </div>
+                        <div>
+                            @if(!task.IsComplete)
+                            {
+                                <form method="post" asp-action="CompleteTask" class="d-inline">
+                                    <input type="hidden" name="id" value="@task.Id" />
+                                    <button type="submit" class="btn btn-success btn-sm">اكتملت</button>
+                                </form>
+                            }
+                            <form method="post" asp-action="DeleteTask" class="d-inline">
+                                <input type="hidden" name="id" value="@task.Id" />
+                                <button type="submit" class="btn btn-danger btn-sm">حذف</button>
+                            </form>
+                        </div>
+                    </li>
+                }
+            </ul>
+
+            <form method="post" asp-action="AddTask" class="mt-4">
+                <div class="input-group">
+                    <input type="text" name="title" class="form-control" placeholder="أدخل عنوان المهمة" required>
+                    <button type="submit" class="btn btn-primary">إضافة مهمة</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

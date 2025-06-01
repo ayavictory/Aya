@@ -1,0 +1,15 @@
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\bin\Debug\net9.0\Business.deps.json
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\bin\Debug\net9.0\Business.dll
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\bin\Debug\net9.0\Business.pdb
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\bin\Debug\net9.0\DataAccess.dll
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.dll
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.pdb
+C:\Users\XPRISTO\OneDrive\Desktop\ii\ToDoSolution_SV\Business\obj\Debug\net9.0\ref\Business.dll
