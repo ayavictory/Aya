@@ -1,0 +1,11 @@
+C:\Users\XPRISTO\OneDrive\Desktop\projegt\unittestingDemo.core\bin\Debug\net9.0\unittestingDemo.core.deps.json
+C:\Users\XPRISTO\OneDrive\Desktop\projegt\unittestingDemo.core\bin\Debug\net9.0\unittestingDemo.core.dll
+C:\Users\XPRISTO\OneDrive\Desktop\projegt\unittestingDemo.core\bin\Debug\net9.0\unittestingDemo.core.pdb
+C:\Users\XPRISTO\OneDrive\Desktop\projegt\unittestingDemo.core\obj\Debug\net9.0\unittestingDemo.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPRISTO\OneDrive\Desktop\projegt\unittestingDemo.core\obj\Debug\net9.0\unittestingDemo.core.AssemblyInfoInputs.cache
+C:\Users\XPRISTO\OneDrive\Desktop\projegt\unittestingDemo.core\obj\Debug\net9.0\unittestingDemo.core.AssemblyInfo.cs
+C:\Users\XPRISTO\OneDrive\Desktop\projegt\unittestingDemo.core\obj\Debug\net9.0\unittestingDemo.core.csproj.CoreCompileInputs.cache
+C:\Users\XPRISTO\OneDrive\Desktop\projegt\unittestingDemo.core\obj\Debug\net9.0\unittestingDemo.core.dll
+C:\Users\XPRISTO\OneDrive\Desktop\projegt\unittestingDemo.core\obj\Debug\net9.0\refint\unittestingDemo.core.dll
+C:\Users\XPRISTO\OneDrive\Desktop\projegt\unittestingDemo.core\obj\Debug\net9.0\unittestingDemo.core.pdb
+C:\Users\XPRISTO\OneDrive\Desktop\projegt\unittestingDemo.core\obj\Debug\net9.0\ref\unittestingDemo.core.dll
