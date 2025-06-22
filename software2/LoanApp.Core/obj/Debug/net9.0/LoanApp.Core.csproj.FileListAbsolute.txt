@@ -1,0 +1,11 @@
+C:\Users\XPRISTO\OneDrive\Desktop\software2\LoanApp.Core\bin\Debug\net9.0\LoanApp.Core.deps.json
+C:\Users\XPRISTO\OneDrive\Desktop\software2\LoanApp.Core\bin\Debug\net9.0\LoanApp.Core.dll
+C:\Users\XPRISTO\OneDrive\Desktop\software2\LoanApp.Core\bin\Debug\net9.0\LoanApp.Core.pdb
+C:\Users\XPRISTO\OneDrive\Desktop\software2\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPRISTO\OneDrive\Desktop\software2\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.AssemblyInfoInputs.cache
+C:\Users\XPRISTO\OneDrive\Desktop\software2\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.AssemblyInfo.cs
+C:\Users\XPRISTO\OneDrive\Desktop\software2\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\XPRISTO\OneDrive\Desktop\software2\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.dll
+C:\Users\XPRISTO\OneDrive\Desktop\software2\LoanApp.Core\obj\Debug\net9.0\refint\LoanApp.Core.dll
+C:\Users\XPRISTO\OneDrive\Desktop\software2\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.pdb
+C:\Users\XPRISTO\OneDrive\Desktop\software2\LoanApp.Core\obj\Debug\net9.0\ref\LoanApp.Core.dll
